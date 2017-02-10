@@ -6,7 +6,7 @@
 		function bjr(){
 			console.log("Salut");
 		};
-		fess();
+		bjr();
 		function validatePhone(txtPhone) {
 			var a = $("#txtPhone").val();
 			console.log(a);
